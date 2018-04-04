@@ -1,0 +1,11 @@
+INSTRUCCIONES:
+	
+	1.- Mover la carpeta "Android" (que es la base de datos), a la carpeta "MySQL" de Xampp. --> (C:\xampp\mysql\data)
+
+	2.- Mover la carpeta "Api" (Que son nuestros archivos PHP), a la carpeta "HDOCS" de Xampp. --> (C:\xampp\htdocs)
+
+	3.- Abrir el proyecto (Act3_3_1). Limpiar y ejecutar el Gradle. 
+
+
+
+PROYECTO HECHO POR EVA LILIANA OSUNA HERNANDEZ.
